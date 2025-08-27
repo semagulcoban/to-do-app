@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037018857922",
+    "project_id": "to-do-app-2157d",
+    "storage_bucket": "to-do-app-2157d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037018857922:android:b61771a8088c0bb74d165b",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKFGrYkd7OwCl2L64PxO57Ll8jn7-M218"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
